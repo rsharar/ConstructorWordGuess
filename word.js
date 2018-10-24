@@ -8,10 +8,12 @@
 function Word (wordArr){
     this.wordArr = wordArr;
     this.wordString = function (){
-
+        console.log()
     };
     this.callGuess = function(char){
 
     }
 }
+
+
 

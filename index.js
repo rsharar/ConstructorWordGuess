@@ -5,3 +5,11 @@
 
 // Letter.js should not require any other files.
 // Word.js should only require Letter.js
+
+// ----- VARIABLES ------ //
+
+
+// ----- FUNCTIONS ------ //
+
+
+// ----- EVENT LISTENERS ------ //
